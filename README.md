@@ -7,7 +7,6 @@ Graduated in Internet Systems, As developer, I try to apply the most current tec
 
 I have a Bachelor's degree in Information Systems and a postgraduate degree in software engineer
 
-<BR/>
 <HR>
 As a Technology Director, FullStack Developer, and Technology Mentor for startups and programmers, I hold a degree in Internet Systems from UFSM. I am a Systems Analyst and Software Engineer with a focus on agile development, boasting over 12 years of experience in high-quality digital products with specialized, lightweight, functional, and unique interfaces. My mission is to help companies and startups explore new avenues of growth through technology.
 
