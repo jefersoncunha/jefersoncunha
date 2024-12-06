@@ -1,14 +1,18 @@
 ## Hi there 👋
 
+My name is Jeferson, Welcome!
+
 Graduated in Internet Systems, As developer, I try to apply the most current technology to create lightweight and easy to interpret projects.
+I have a Bachelor's degree in Information Systems and a postgraduate degree in software engineer
 
 As a Technology Director, FullStack Developer, and Technology Mentor for startups and programmers, I hold a degree in Internet Systems from UFSM. I am a Systems Analyst and Software Engineer with a focus on agile development, boasting over 12 years of experience in high-quality digital products with specialized, lightweight, functional, and unique interfaces. My mission is to help companies and startups explore new avenues of growth through technology.
 
 As the Technology Director of the Gaúcha Association of Startups (AGS) for 4 years, I participated in several innovative projects that transformed the technology landscape in the state of Rio Grande do Sul.
 
-For over 12 years, I have served as a Technology Director for startups, contributing to numerous acceleration and incubation projects such as BossaNova, Inova/RS, Inova/Brasil, and StartUp/Chile. I have also been honored with multiple awards for excellence in technology within these programs. Additionally, as the Technology Director of MoonBase.Digital for 12 years, I have been involved in over 5,000 technology and digital marketing projects.
+For over 12 years, I have served as a Technology Director for startups, contributing to numerous acceleration and incubation projects such as `BossaNova`, `Inova/RS`, `Inova/Brasil`, and `StartUp/Chile`. I have also been honored with multiple awards for excellence in technology within these programs. Additionally, as the Technology Director of MoonBase.Digital for 12 years, I have been involved in over 5,000 technology and digital marketing projects.
 
-In the academic and research domain, I worked as a researcher and developer for CNPq for two years, achieving the Gold Award in the technical category. I was also recognized with the Best Technology Project in Brazil award.
+In the academic and research domain, I worked as a researcher and developer for CNPq for two years, achieving the ✨*Gold Award in the technical category*✨. 
+🥇✨I was also recognized with the Best Technology Project in Brazil award.✨🥇
 
 Fnd out a little about the technologies I've already had contact with...
 
