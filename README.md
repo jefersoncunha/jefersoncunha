@@ -10,6 +10,7 @@ I have a Bachelor's degree in Information Systems and a postgraduate degree in s
 <HR>
 As a Technology Director, FullStack Developer, and Technology Mentor for startups and programmers, I hold a degree in Internet Systems from UFSM. I am a Systems Analyst and Software Engineer with a focus on agile development, boasting over 12 years of experience in high-quality digital products with specialized, lightweight, functional, and unique interfaces. My mission is to help companies and startups explore new avenues of growth through technology.
 
+
 As the Technology Director of the Gaúcha Association of Startups (AGS) for 4 years, I participated in several innovative projects that transformed the technology landscape in the state of Rio Grande do Sul.
 
 For over 12 years, I have served as a Technology Director for startups, contributing to numerous acceleration and incubation projects such as `BossaNova`, `Inova/RS`, `Inova/Brasil`, and `StartUp/Chile`. I have also been honored with multiple awards for excellence in technology within these programs. 
