@@ -9,12 +9,13 @@ As a Technology Director, FullStack Developer, and Technology Mentor for startup
 
 As the Technology Director of the Gaúcha Association of Startups (AGS) for 4 years, I participated in several innovative projects that transformed the technology landscape in the state of Rio Grande do Sul.
 
-For over 12 years, I have served as a Technology Director for startups, contributing to numerous acceleration and incubation projects such as `BossaNova`, `Inova/RS`, `Inova/Brasil`, and `StartUp/Chile`. I have also been honored with multiple awards for excellence in technology within these programs. Additionally, as the Technology Director of MoonBase.Digital for 12 years, I have been involved in over 5,000 technology and digital marketing projects.
+For over 12 years, I have served as a Technology Director for startups, contributing to numerous acceleration and incubation projects such as `BossaNova`, `Inova/RS`, `Inova/Brasil`, and `StartUp/Chile`. I have also been honored with multiple awards for excellence in technology within these programs. Additionally, as the Technology Director of MoonBase.Digital for 12 years, I have been involved in over 5,000 technology and digital projects.
 
-In the academic and research domain, I worked as a researcher and developer for CNPq for two years, achieving the ✨*Gold Award in the technical category*✨. 
+In the academic and research domain, I worked as a researcher and developer for CNPq for two years, 
+achieving the ✨*Gold Award in the technical category*✨. <br/>
 🥇✨I was also recognized with the Best Technology Project in Brazil award.✨🥇
 
-Fnd out a little about the technologies I've already had contact with...
+Find out a little about the technologies I've already had contact with...
 
 <p align="center">
   <a href="https://github.com/jefersoncunha">
