@@ -23,7 +23,7 @@ Find out a little about the technologies I've already had contact with...
 
 <p align="center">
   <a href="https://github.com/jefersoncunha">
-    <img src="https://skillicons.dev/icons?i=laravel,php,git,github,html,css,bootstrap,sass,js,react,vue,nuxtjs,jquery,nodejs,mysql,postgres,mongodb,redis,npm,nginx,jenkins,docker,kubernetes,linux,ubuntu,aws,azure,gcp,heroku,babel,blender,gulp,java,cs,figma,postman,powershell,sentry,unreal,vscode,webpack,windows" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,git,github,html,css,sass,js,typescript,react,vue,nuxtjs,jquery,nodejs,mysql,postgres,mongodb,redis,npm,nginx,jenkins,docker,kubernetes,linux,ubuntu,aws,azure,gcp,heroku,babel,blender,gulp,java,cs,figma,postman,powershell,sentry,unreal,vscode,webpack,mac,apple" />
   </a>
 </p>
 <p align="center">
